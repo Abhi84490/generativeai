@@ -1,0 +1,1 @@
+print(doc[0].metadata)
